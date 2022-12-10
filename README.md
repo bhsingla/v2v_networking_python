@@ -1,4 +1,7 @@
 # v2v_networking_python
+
+NOTE: V2V_model is the only code that is used. The test module was used for early testing.
+
 INTRODUCTION:
 This project is to imulate a broadcast protocol for vehicle to vehocle communications. 
 Each program instance acts as a vehicle and will communicate with other vehicles, selectively expecting acks/retransmitting for vehicles withing the Prange of static variable defined at the beginning of the code. 
