@@ -1,6 +1,6 @@
 # V2V BROADCASTING PROTOCOL
 
-**Memebers** : Kevin Jonnes, BHoomika Burange, Bhoomika Singla, Kiran Jojare
+**Memebers** : Kevin Jonnes, Isha Burange, Bhoomika Singla, Kiran Jojare
 **Subject**  : Network System, fall 2022
 
 NOTE: V2V_model is the only code that is used. The test module was used for early testing.
