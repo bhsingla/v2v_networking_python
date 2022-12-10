@@ -35,5 +35,5 @@ This scenario exercises all code modules, though more testing/tweaking variables
 ## TAKEAWAYS:
 A lot more tweaking is needed to look at recieve timeouts, buffer read/write optimization (ratio of sends to reads), ack/event timeouts, etc. This code could also be multithreaded/use select/pselect. I believe a shared key could also be used to create subgroups of vehicles or using a cellular link for authenticating vehicles. 
 
-## Extent Bugs
+## EXTENT BUGS
 No Extent bugs were found in the code
